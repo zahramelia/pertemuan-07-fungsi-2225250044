@@ -7,7 +7,7 @@
 - Mata Kuliah: Algoritma dan Pemrograman
 
 ## Tujuan
-Mempelajari penggunaan fungsi dalam Python, termasuk parameter, return value, dan scope variabel, serta menerapkannya untuk menyelesaikan permasalahan matematika.
+Mempelajari penggunaan fungsi dalam Python, termasuk parameter, return value, dan scope variabel, serta menerapkannya untuk menyelesaikan permasalahan matematika. Program utama menyediakan menu untuk menghitung luas bangun datar, jumlah bilangan, dan faktorial dengan validasi input.
 
 ## Cara Menjalankan Program
 
